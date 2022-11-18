@@ -1,6 +1,8 @@
 # NASA Power
 
-A thin wrapper around the NASA Power API.
+An unofficial Python client for the NASA Power API.
+
+Documentation of the API found on https://power.larc.nasa.gov/docs/tutorials/service-data-request/api/
 
 ## Installation
 
